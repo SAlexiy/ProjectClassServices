@@ -1,4 +1,4 @@
-package com.example.userauthservice.service
+package com.example.service
 
 import com.example.userauthservice.datasource.UserDataRepository
 

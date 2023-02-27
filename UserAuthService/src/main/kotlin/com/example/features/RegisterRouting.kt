@@ -1,7 +1,7 @@
 package com.example.features
 
 import com.example.userauthservice.datamodel.user.UserReg
-import com.example.userauthservice.service.RegisterService
+import com.example.service.RegisterService
 import io.ktor.http.*
 import io.ktor.server.routing.*
 import io.ktor.server.application.*

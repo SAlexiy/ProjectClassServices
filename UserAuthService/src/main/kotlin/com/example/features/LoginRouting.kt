@@ -1,7 +1,7 @@
 package com.example.features
 
 import com.example.datamodel.user.UserLogin
-import com.example.userauthservice.service.LoginService
+import com.example.service.LoginService
 import io.ktor.http.*
 import io.ktor.server.routing.*
 import io.ktor.server.application.*

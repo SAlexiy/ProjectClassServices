@@ -9,9 +9,8 @@ import com.example.plugins.*
 import com.example.userauthservice.datasource.GetAccessToken
 import com.example.userauthservice.datasource.UserDataRepository
 import com.example.userauthservice.datasource.YDBConnection
-import com.example.userauthservice.service.LoginService
-import com.example.userauthservice.service.RegisterService
-import javax.print.PrintServiceLookup.registerService
+import com.example.service.LoginService
+import com.example.service.RegisterService
 
 fun main() {
     embeddedServer(Netty, port = 8080, host = "0.0.0.0", module = Application::module)
