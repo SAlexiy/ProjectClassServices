@@ -3,6 +3,7 @@
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/GetLessonsService" />
+    <file type="web" url="file://$PROJECT_DIR$/UpdateLessonsService" />
     <file type="web" url="file://$PROJECT_DIR$/UserAuthService" />
   </component>
   <component name="MarkdownSettingsMigration">
